@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.anu.coupon.domain.CouponEntityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-26T12:57:17" hostname="ijuhyeon-ui-MacBookPro.local" time="0.275">
+  <properties/>
+  <testcase name="couponUseTest()" classname="com.anu.coupon.domain.CouponEntityTest" time="0.275"/>
+  <system-out><![CDATA[쿠폰 사용하기 전 상태 => CouponEntity(couponNumber=null, couponStatusCode=null, issuedAt=null, usedAt=null, expiredAt=2024-08-27T21:57:17.087495)
+쿠폰 사용하고 난 후의 상태 => CouponEntity(couponNumber=null, couponStatusCode=USED, issuedAt=null, usedAt=2024-08-26T21:57:17.185555, expiredAt=2024-08-27T21:57:17.087495)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

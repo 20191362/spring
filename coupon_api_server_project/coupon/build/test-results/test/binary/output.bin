@@ -1,0 +1,2 @@
+�쿠폰 사용하기 전 상태 => CouponEntity(couponNumber=null, couponStatusCode=null, issuedAt=null, usedAt=null, expiredAt=2024-08-27T21:57:17.087495)
+�쿠폰 사용하고 난 후의 상태 => CouponEntity(couponNumber=null, couponStatusCode=USED, issuedAt=null, usedAt=2024-08-26T21:57:17.185555, expiredAt=2024-08-27T21:57:17.087495)
